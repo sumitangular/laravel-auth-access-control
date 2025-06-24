@@ -5,7 +5,7 @@ This Laravel package provides authentication, role-permission management, REST A
 ## Installation
 
 ```bash
-composer require sumit/authaccesscontrol
+composer require sumitmishra/authaccesscontrol
 ```
 
 ## Publish Resources
