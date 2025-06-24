@@ -1,0 +1,19 @@
+{
+    "name": "sumit/authaccesscontrol",
+    "description": "Laravel Authentication & Access Control Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sumit\\AuthAccessControl\\": "./"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sumit\\AuthAccessControl\\AuthAccessControlServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
